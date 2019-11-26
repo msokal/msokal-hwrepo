@@ -1,6 +1,6 @@
 package buses;
 
-public interface Capabilities {
+public interface IntFC {
     public void FuelConsumption();
     public String getInfoBus ();
 	
